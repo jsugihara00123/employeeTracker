@@ -36,8 +36,5 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 ## Video Walk Through
 
-Link: 
+Link: https://drive.google.com/file/d/1ZmkR-A7bDpvWs6ANX_ylK_WazXqdqzHH/view?usp=sharing 
 
-## Link to deployed site
-
-Link: 
